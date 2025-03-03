@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lalindupalliyaguruge9@gmail.com**
 
-- ⚡ Fun fact **A Pure INTP**
+- ⚡ Fun fact **A Pure INTP-A**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
