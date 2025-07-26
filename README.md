@@ -5,7 +5,7 @@
 
 - 🌱 I’m Curious About **Science , Digital Marketing And Obviously Tech Industry**
 
-- 👯 I’m looking to collaborate on **Software Development Projects**
+- 👯 I’m looking to collaborate on **Open Source Development Projects**
 
 - 🤝 I’m looking for help with **Cloud Engineering Technologies**
 
