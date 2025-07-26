@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Software Development Projects**
 
-- 🤝 I’m looking for help with **Tech Stacks**
+- 🤝 I’m looking for help with **Cloud Engineering Technologies**
 
 - 📫 How to reach me **lalindupalliyaguruge9@gmail.com**
 
-- ⚡ Fun fact **A Pure INTP-A**
+- ⚡ **A Pure INTP-A**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
