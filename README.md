@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Development Projects**
 
-- 🤝 I’m looking for help with **Cloud Native Devlopment Technologies**
+- 🤝 I’m looking for help with **Cloud Native Development Technologies**
 
 - 📫 How to reach me **lalindupalliyaguruge9@gmail.com**
 
